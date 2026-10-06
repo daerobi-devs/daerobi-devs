@@ -8,19 +8,74 @@
   <!-- Social Icons SVG (Clean, Sleek, Unified Dark Minimalist) -->
   <p align="center">
     <a href="mailto:daerobii0223@gmail.com" target="_blank">
-      <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
+      <img src="https://skillicons.dev/icons?i=gmail" width="46" height="46" alt="Gmail" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/dae.obiy" target="_blank">
-      <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" />
+      <img src="https://skillicons.dev/icons?i=instagram" width="46" height="46" alt="Instagram" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/daerobi-devs" target="_blank">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <img src="https://skillicons.dev/icons?i=github" width="46" height="46" alt="GitHub" />
     </a>
   </p>
 
 </div>
+
+---
+
+### ✦ About Me
+
+> **"Human craftsmanship, amplified by AI."**
+
+Halo! Saya **Daerobi**, mahasiswa Teknik Informatika di **Universitas Pamulang** dan pengembang di balik [Buatin.biz.id](https://buatin.biz.id). 
+
+Saya merancang aplikasi web modern (**Next.js & TypeScript**) dengan arsitektur presisi dan kecepatan eksekusi tinggi yang diakselerasi oleh armada AI agents. Tidak hanya menulis kode antarmuka, saya juga mengoperasikan infrastruktur server rumahan mandiri berbasis **Proxmox VE & Coolify** untuk menghadirkan ekosistem digital yang berdaulat dari *frontend* hingga ke *bare-metal server*.
+
+<br />
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://antigravity.google">
+        <img src="https://api.iconify.design/logos:google-gemini.svg" width="44" height="44" alt="Google Antigravity & Gemini" />
+      </a>
+      <br />
+      <b>Google Antigravity</b>
+      <br />
+      <sub>DeepMind AI Engine</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://claude.ai">
+        <img src="https://api.iconify.design/logos:claude-icon.svg" width="44" height="44" alt="Anthropic Claude" />
+      </a>
+      <br />
+      <b>Claude AI</b>
+      <br />
+      <sub>Anthropic Systems</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://openai.com">
+        <img src="https://api.iconify.design/logos:openai-icon.svg" width="44" height="44" alt="OpenAI" />
+      </a>
+      <br />
+      <b>OpenAI</b>
+      <br />
+      <sub>ChatGPT / GPT-4o</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://proxmox.com">
+        <img src="https://api.iconify.design/simple-icons:proxmox.svg?color=%23E57000" width="44" height="44" alt="Proxmox VE" />
+      </a>
+      <br />
+      <b>Homelab Server</b>
+      <br />
+      <sub>Proxmox VE & Coolify</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
