@@ -3,7 +3,7 @@
   <!-- Header Banner Wave / Typing Animation -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,18,24,28&height=220&section=header&text=DAEROBI&fontSize=70&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Homelab%20Architect%20%7C%20AI%20Systems&descAlignY=58&descAlign=50&fontColor=ffffff&stroke=030712" width="100%" alt="Header Banner" />
 
-  <!-- Animated Mascot / Floating Work Visual from Cool-GIFs-For-GitHub -->
+  <!-- Animated Mascot / Floating Work Visual -->
   <p align="center">
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/af212da4-8588-4d7c-8400-16e56f2746a0" width="480" alt="Floating Work Structure" />
   </p>
@@ -35,45 +35,25 @@
 
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="35" valign="middle" /> ✦ Terminal Interface
-
-```zsh
-daerobi@homelab:~$ neofetch --profile
-```
-
-```yaml
-  user@daerobi-devs
-  ------------------
-  OS          : Proxmox VE / Debian Linux (Self-Hosted)
-  Host        : Homelab Micro-Node & Coolify Cloud
-  Role        : Founder @ Buatin.biz.id & Vibe Coder
-  Education   : Computer Science, Universitas Pamulang (UNPAM)
-  Passion     : 🚴 Riding bikes by day, 💻 Vibe coding by night
-  Stack       : TypeScript, React/Next.js, Supabase, Docker, Gemini AI
-  Status      : Building scalable web apps & autonomous AI workflows
-```
-
----
-
-### <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="30" valign="middle" /> 🛠️ Arsenal & Tech Stack
-
 <div align="center">
 
-  #### Frontend & Frameworks
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&perline=7" alt="Frontend Skills" />
-    </a>
-  </p>
+  ## 🛠️ Tech Stack & Arsenal
 
-  #### Backend, Database & Infrastructure
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,docker,linux,cloudflare&perline=7" alt="Backend & Cloud Skills" />
-    </a>
-  </p>
+  <br />
 
-  #### AI Systems & Special Protocols
+  <!-- Frontend Skills -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&perline=7" alt="Frontend Skills" />
+  </a>
+  <br /><br />
+
+  <!-- Backend & Cloud Skills -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,docker,linux,cloudflare&perline=7" alt="Backend & Cloud Skills" />
+  </a>
+  <br /><br />
+
+  <!-- AI & Infrastructure Badges -->
   <p>
     <img src="https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
     <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-10B981?style=for-the-badge&logo=json&logoColor=white" />
@@ -85,9 +65,12 @@ daerobi@homelab:~$ neofetch --profile
 
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="35" valign="middle" /> 📊 GitHub Activity & Metrics
-
 <div align="center">
+
+  ## 📊 GitHub Analytics
+
+  <br />
+
   <table border="0">
     <tr>
       <td align="center" width="50%">
@@ -103,11 +86,8 @@ daerobi@homelab:~$ neofetch --profile
       </td>
     </tr>
   </table>
-</div>
 
----
-
-<div align="center">
+  <br /><br />
 
   <!-- Vibe Coding Work Sticker Animation -->
   <p align="center">
