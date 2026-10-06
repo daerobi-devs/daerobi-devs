@@ -1,33 +1,26 @@
 <div align="center">
 
-  <!-- Header Banner Wave / Typing Animation -->
+  <!-- Header Banner Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,18,24,28&height=220&section=header&text=DAEROBI&fontSize=70&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Homelab%20Architect%20%7C%20AI%20Systems&descAlignY=58&descAlign=50&fontColor=ffffff&stroke=030712" width="100%" alt="Header Banner" />
 
-  <!-- Animated Mascot / Floating Work Visual -->
+  <br /><br />
+
+  <!-- Social Icons SVG (Clean, Sleek, Unified Dark Minimalist) -->
   <p align="center">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/af212da4-8588-4d7c-8400-16e56f2746a0" width="480" alt="Floating Work Structure" />
-  </p>
-
-  <!-- Typing SVG Dynamic Introduction -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=750&height=45&lines=Founder+Buatin.biz.id+—+Fast+Web+Solutions;Self-Hosted+Advocate+%7C+Homelab+Proxmox+%26+Coolify;AI-Driven+Developer+%7C+Autonomous+Workflows+%26+MCP;Riding+bikes+by+day%2C+vibe+coding+by+night." alt="Typing SVG" />
-  </a>
-
-  <br />
-
-  <!-- Social & Quick Link Badges -->
-  <p align="center">
-    <a href="https://wa.me/6285123607711">
-      <img src="https://img.shields.io/badge/WhatsApp-+62_851--2360--7711-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <a href="https://wa.me/6285123607711" target="_blank">
+      <img src="https://skillicons.dev/icons?i=whatsapp" width="48" height="48" alt="WhatsApp" />
     </a>
-    <a href="mailto:daerobii0223@gmail.com">
-      <img src="https://img.shields.io/badge/Email-daerobii0223%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:daerobii0223@gmail.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
     </a>
-    <a href="https://www.instagram.com/dae.obiy?stkn=MTJxNGZ3YzBiYzdwcw==">
-      <img src="https://img.shields.io/badge/Instagram-@dae.obiy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/dae.obiy" target="_blank">
+      <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" />
     </a>
-    <a href="http://buatin.biz.id">
-      <img src="https://img.shields.io/badge/Agency-Buatin.biz.id-0284C7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Buatin Agency" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/daerobi-devs" target="_blank">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
     </a>
   </p>
 
@@ -51,15 +44,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,docker,linux,cloudflare&perline=7" alt="Backend & Cloud Skills" />
   </a>
-  <br /><br />
-
-  <!-- AI & Infrastructure Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-    <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-10B981?style=for-the-badge&logo=json&logoColor=white" />
-    <img src="https://img.shields.io/badge/Coolify_v4-6B21A8?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
-  </p>
 
 </div>
 
@@ -89,13 +73,8 @@
 
   <br /><br />
 
-  <!-- Vibe Coding Work Sticker Animation -->
-  <p align="center">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="360" alt="Coding while hearing music" />
-  </p>
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=28,24,18,11,1&height=120&section=footer" width="100%" alt="Footer Banner" />
 
-  <sub>Crafted with passion & clean aesthetics by <b>Daerobi</b> © 2026</sub>
+  <sub>Crafted with precision & clean aesthetics by <b>Daerobi</b> © 2026</sub>
 
 </div>
