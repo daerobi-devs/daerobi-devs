@@ -43,15 +43,15 @@ Saya merancang aplikasi web modern (**Next.js & TypeScript**) dengan performa ti
 
 <br />
 
-<!-- AI Agentic Stack (Hermes, Gemini, Claude, GPT) -->
+<!-- AI Agentic Stack (Hermes, Antigravity, Claude, GPT) -->
 <div align="center">
   <p align="center">
     <a href="https://hermes.nousresearch.com/" title="Nous Hermes AI Agent">
       <img src="./nous-logo.png" width="48" height="48" alt="Nous Hermes" style="border-radius: 12px;" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://deepmind.google/technologies/gemini/" title="Google Gemini AI">
-      <img src="https://api.iconify.design/logos:google-gemini.svg" width="48" height="48" alt="Google Gemini" />
+    <a href="https://antigravity.google" title="Google Antigravity — Advanced Agentic Coding">
+      <img src="./antigravity-icon.svg" width="48" height="48" alt="Google Antigravity" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://claude.ai/" title="Anthropic Claude AI">
