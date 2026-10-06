@@ -30,52 +30,39 @@
 
 Halo! Saya **Daerobi**, mahasiswa Teknik Informatika di **Universitas Pamulang** dan pengembang di balik [Buatin.biz.id](https://buatin.biz.id). 
 
-Saya merancang aplikasi web modern (**Next.js & TypeScript**) dengan arsitektur presisi dan kecepatan eksekusi tinggi yang diakselerasi oleh armada AI agents. Tidak hanya menulis kode antarmuka, saya juga mengoperasikan infrastruktur server rumahan mandiri berbasis **Proxmox VE & Coolify** untuk menghadirkan ekosistem digital yang berdaulat dari *frontend* hingga ke *bare-metal server*.
+Saya merancang aplikasi web modern (**Next.js & TypeScript**) dengan performa tinggi dan arsitektur modular yang diakselerasi oleh AI Coding Agents. Di sisi infrastruktur, saya mengoperasikan server mandiri berbasis **Proxmox VE & Coolify** untuk ekosistem digital yang berdaulat dari *frontend* hingga ke *bare-metal homelab*.
 
 <br />
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://antigravity.google">
-        <img src="https://api.iconify.design/logos:google-gemini.svg" width="44" height="44" alt="Google Antigravity & Gemini" />
-      </a>
-      <br />
-      <b>Google Antigravity</b>
-      <br />
-      <sub>DeepMind AI Engine</sub>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://claude.ai">
-        <img src="https://api.iconify.design/logos:claude-icon.svg" width="44" height="44" alt="Anthropic Claude" />
-      </a>
-      <br />
-      <b>Claude AI</b>
-      <br />
-      <sub>Anthropic Systems</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://openai.com">
-        <img src="https://api.iconify.design/logos:openai-icon.svg" width="44" height="44" alt="OpenAI" />
-      </a>
-      <br />
-      <b>OpenAI</b>
-      <br />
-      <sub>ChatGPT / GPT-4o</sub>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://proxmox.com">
-        <img src="https://api.iconify.design/simple-icons:proxmox.svg?color=%23E57000" width="44" height="44" alt="Proxmox VE" />
-      </a>
-      <br />
-      <b>Homelab Server</b>
-      <br />
-      <sub>Proxmox VE & Coolify</sub>
-    </td>
-  </tr>
-</table>
+<!-- Initiative & Enterprise Branding -->
+<div align="center">
+  <a href="http://buatin.biz.id" target="_blank">
+    <img src="./buatin-logo.svg" width="380" alt="Buatin.biz.id Logo SVG" />
+  </a>
+</div>
+
+<br />
+
+<!-- AI & Infrastructure Stack (Clean, High-Tech SkillIcons Style) -->
+<div align="center">
+  <p>
+    <a href="https://antigravity.google">
+      <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Artificial Intelligence" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://proxmox.com">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux / Proxmox" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://coolify.io">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker / Coolify" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://cloudflare.com">
+      <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" />
+    </a>
+  </p>
+</div>
 
 ---
 
