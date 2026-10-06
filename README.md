@@ -47,7 +47,7 @@ Saya merancang aplikasi web modern (**Next.js & TypeScript**) dengan performa ti
 <div align="center">
   <p align="center">
     <a href="https://hermes.nousresearch.com/" title="Nous Hermes AI Agent">
-      <img src="./hermes-badge.svg" width="48" height="48" alt="Nous Hermes" />
+      <img src="./nous-logo.png" width="48" height="48" alt="Nous Hermes" style="border-radius: 12px;" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://deepmind.google/technologies/gemini/" title="Google Gemini AI">
