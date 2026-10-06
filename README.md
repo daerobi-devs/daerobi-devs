@@ -37,29 +37,29 @@ Saya merancang aplikasi web modern (**Next.js & TypeScript**) dengan performa ti
 <!-- Initiative & Enterprise Branding -->
 <div align="center">
   <a href="http://buatin.biz.id" target="_blank">
-    <img src="./buatin-logo.svg" width="380" alt="Buatin.biz.id Logo SVG" />
+    <img src="./buatin-logo.svg" width="360" alt="Buatin.biz.id Logo SVG" />
   </a>
 </div>
 
 <br />
 
-<!-- AI & Infrastructure Stack (Clean, High-Tech SkillIcons Style) -->
+<!-- AI Agentic Stack (Hermes, Gemini, Claude, GPT) -->
 <div align="center">
-  <p>
-    <a href="https://antigravity.google">
-      <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Artificial Intelligence" />
+  <p align="center">
+    <a href="https://hermes.nousresearch.com/" title="Nous Hermes AI Agent">
+      <img src="./hermes-badge.svg" width="48" height="48" alt="Nous Hermes" />
     </a>
-    &nbsp;&nbsp;
-    <a href="https://proxmox.com">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux / Proxmox" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://deepmind.google/technologies/gemini/" title="Google Gemini AI">
+      <img src="https://api.iconify.design/logos:google-gemini.svg" width="48" height="48" alt="Google Gemini" />
     </a>
-    &nbsp;&nbsp;
-    <a href="https://coolify.io">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker / Coolify" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://claude.ai/" title="Anthropic Claude AI">
+      <img src="https://api.iconify.design/logos:claude-icon.svg" width="48" height="48" alt="Anthropic Claude" />
     </a>
-    &nbsp;&nbsp;
-    <a href="https://cloudflare.com">
-      <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://openai.com/" title="OpenAI ChatGPT / GPT-4o">
+      <img src="https://api.iconify.design/logos:openai-icon.svg" width="48" height="48" alt="OpenAI GPT" />
     </a>
   </p>
 </div>
