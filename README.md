@@ -59,7 +59,7 @@ Saya merancang aplikasi web modern (**Next.js & TypeScript**) dengan performa ti
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://openai.com/" title="OpenAI ChatGPT / GPT-4o">
-      <img src="https://api.iconify.design/logos:openai-icon.svg" width="48" height="48" alt="OpenAI GPT" />
+      <img src="https://api.iconify.design/simple-icons:openai.svg?color=%23FFFFFF" width="48" height="48" alt="OpenAI GPT" />
     </a>
   </p>
 </div>
