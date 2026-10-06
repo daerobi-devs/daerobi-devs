@@ -7,10 +7,6 @@
 
   <!-- Social Icons SVG (Clean, Sleek, Unified Dark Minimalist) -->
   <p align="center">
-    <a href="https://wa.me/6285123607711" target="_blank">
-      <img src="https://skillicons.dev/icons?i=whatsapp" width="48" height="48" alt="WhatsApp" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:daerobii0223@gmail.com" target="_blank">
       <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
     </a>
